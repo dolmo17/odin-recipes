@@ -1,1 +1,5 @@
 # odin-recipes
+<!--
+In this project, I demonstrated an understanding of the HTML boilerplate code, which is the initial information we have to write in a file in order for the complier to understand that we want it to run an HTMl file. We also include the language for accessibility purposes and we tell the complier what encoding we want to use. 
+
+I utilized numerous HTML elements like <p>, <a>, <img>, <h1..6> to create 4 webpages. One webpage was the homepage, which had hyperlinks to the 3 content pages. The content pages each had images, source links (for the images and recipes used), and ingredients lists and steps lists. The title was a different header than the ingredients and steps lists, which groups the content on the page. At the top of each page, there was also a "Home" hyperlink, which the user could click to return to the home page. -->
