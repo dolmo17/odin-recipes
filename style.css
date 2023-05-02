@@ -1,0 +1,23 @@
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 35%;
+    height: auto;
+}
+
+.index-img {
+    margin-right: 100%;
+    margin-left: 0%;
+    width: 10%;
+}
+
+body {
+    background-color: rgb(245, 223, 193);
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.header, p {
+    text-align: center;
+}
